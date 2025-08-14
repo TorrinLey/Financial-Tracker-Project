@@ -1,4 +1,4 @@
-💰 Financial Tracker Project
+# 💰 Financial Tracker Project
 
 Financial Tracker is a browser-based application designed to help users manage, monitor, and analyze their personal finances in an intuitive and interactive way. Track expenses, visualize spending patterns, and make informed financial decisions—all in one place.
 
