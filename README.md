@@ -16,8 +16,12 @@ Financial Tracker is a browser-based application designed to help users manage, 
 
 ### 🛠️ Tech Stack
 
-Frontend: HTML | CSS | JavaScript
-Backend: Node.js | Express.js
-Database: PostgreSQL
-API Testing: Postman
-Data Visualization: Chart.js
+**Frontend**: HTML | CSS | JavaScript
+
+**Backend**: Node.js | Express.js
+
+**Database**: PostgreSQL
+
+**API Testing**: Postman
+
+**Data Visualization**: Chart.js
