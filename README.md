@@ -2,7 +2,7 @@
 
 Financial Tracker is a browser-based application designed to help users manage, monitor, and analyze their personal finances in an intuitive and interactive way. Track expenses, visualize spending patterns, and make informed financial decisions—all in one place.
 
-✨ Features
+## ✨ Features
 
 ✅ Add, edit, and delete income and expense entries
 
@@ -14,7 +14,7 @@ Financial Tracker is a browser-based application designed to help users manage, 
 
 ✅ RESTful API endpoints for seamless data management
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend: HTML | CSS | JavaScript
 Backend: Node.js | Express.js
